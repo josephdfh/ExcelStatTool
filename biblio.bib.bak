@@ -1,0 +1,180 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Book{anderson2003introMVA3e,
+  Title                    = {An Introduction to Multivariate Statistical Analysis},
+  Author                   = {Anderson, Theodore W},
+  Publisher                = {Wiley},
+  Year                     = {2003},
+  Edition                  = {3rd},
+  Series                   = {Wiley Series in Probability and Statistics}
+}
+
+@Article{bartlett1938,
+  Title                    = {Further aspects of the theory of multiple regression},
+  Author                   = {Bartlett, M. S.},
+  Journal                  = {Proceedings of the Cambridge Philosophical Society},
+  Year                     = {1938},
+  Pages                    = {33-40},
+  Volume                   = {34}
+}
+
+@Article{CasellaHwang2012,
+  Title                    = {Shrinkage Confidence Procedures},
+  Author                   = {Casella, George and Hwang, J. T. Gene},
+  Journal                  = {Statist. Sci.},
+  Year                     = {2012},
+
+  Month                    = {02},
+  Number                   = {1},
+  Pages                    = {51--60},
+  Volume                   = {27},
+
+  Doi                      = {10.1214/10-STS319},
+  Fjournal                 = {Statistical Science},
+  Publisher                = {The Institute of Mathematical Statistics},
+  Url                      = {http://dx.doi.org/10.1214/10-STS319}
+}
+
+@Article{Fisherztransform1915,
+  Title                    = {Frequency distribution of the values of the correlation coefficient in samples of an indefinitely large population},
+  Author                   = {Fisher, RA},
+  Journal                  = {Biometrika},
+  Year                     = {1915},
+  Pages                    = {507-521},
+  Volume                   = {10},
+
+  Issue                    = {4}
+}
+
+@Book{GolubVanLoan2012MatrixComputations4e,
+  Title                    = {Matrix Computations},
+  Author                   = {Golub, GH and {Van Loan}, CF},
+  Publisher                = {Johns Hopkins University Press},
+  Year                     = {2012},
+  Edition                  = {4th},
+  Series                   = {Johns Hopkins Studies in the Mathematical Sciences}
+}
+
+@Book{GreenBullenBoveyAlexanderExcel2007VBAProgrammerReference,
+  Title                    = {Excel 2007 VBA Programmer's Reference},
+  Author                   = {Green, John and Bullen, Stephen and Bovey, Rob and Alexander, Michael},
+  Publisher                = {Wiley},
+  Year                     = {2007}
+}
+
+@Manual{RpackageElemStatLearn,
+  Title                    = {ElemStatLearn: Data Sets, Functions and Examples from the Book: "The Elements
+of Statistical Learning, Data Mining, Inference, and
+Prediction" by Trevor Hastie, Robert Tibshirani and Jerome
+Friedman},
+  Author                   = {Halvorsen, Kjetil B},
+  Note                     = {R package version 2015.6.26},
+  Year                     = {2015},
+
+  Url                      = {http://CRAN.R-project.org/package=ElemStatLearn}
+}
+
+@Article{hotelling1936relations,
+  Title                    = {Relations between two sets of variates},
+  Author                   = {Hotelling, Harold},
+  Journal                  = {Biometrika},
+  Year                     = {1936},
+
+  Month                    = {12},
+  Note                     = {1936},
+  Number                   = {3/4},
+  Pages                    = {321--377},
+  Volume                   = {28}
+}
+
+@Article{hotelling1931Tsq,
+  Title                    = {The Generalization of Student's Ratio},
+  Author                   = {Hotelling, Harold},
+  Journal                  = {The Annals of Mathematical Statistics},
+  Year                     = {1931},
+
+  Month                    = {08},
+  Number                   = {3},
+  Pages                    = {360--378},
+  Volume                   = {2},
+
+  Ajournal                 = {Ann. Math. Statist.},
+  Doi                      = {10.1214/aoms/1177732979},
+  Publisher                = {The Institute of Mathematical Statistics},
+  Url                      = {http://dx.doi.org/10.1214/aoms/1177732979}
+}
+
+@Book{johnson1992applied,
+  Title                    = {Applied Multivariate Statistical Analysis},
+  Author                   = {Johnson, Richard Arnold and Wichern, Dean W},
+  Publisher                = {Prentice hall Englewood Cliffs},
+  Year                     = {1992},
+
+  Address                  = {NJ},
+  Edition                  = {4th}
+}
+
+@Electronic{msdnExcelVBAReference,
+  Title                    = {Excel VBA reference},
+  Author                   = {msdn.microsoft.com},
+  Url                      = {https://msdn.microsoft.com/en-us/library/ee861528.aspx},
+  Year                     = {2013}
+}
+
+@Article{rao1948corkboring,
+  Title                    = {Tests of significance in multivariate analysis},
+  Author                   = {Rao, C. R.},
+  Journal                  = {Biometrika},
+  Year                     = {1948},
+
+  Month                    = {May},
+  Note                     = {1948},
+  Number                   = {1/2},
+  Pages                    = {58-79},
+  Volume                   = {35}
+}
+
+@Book{SauerT2011NumericalAnalysis2e,
+  Title                    = {Numerical Analysis},
+  Author                   = {Timothy Sauer},
+  Publisher                = {Pearson},
+  Year                     = {2011},
+  Edition                  = {2nd},
+  Series                   = {Featured Titles for Numerical Analysis}
+}
+
+@Article{stamey1989prostate,
+  Title                    = {Prostate specific antigen in the diagnosis and treatment of adenocarcinoma of the prostate. II. Radical prostatectomy treated patients.},
+  Author                   = {Stamey, Thomas A and Kabalin, John N and McNeal, John E and Johnstone, Iain M and Freiha, F and Redwine, Elise A and Yang, Norman},
+  Journal                  = {The Journal of Urology},
+  Year                     = {1989},
+  Number                   = {5},
+  Pages                    = {1076--1083},
+  Volume                   = {141}
+}
+
+@InProceedings{SteinCM1956InadmissibilityoftheUsualEstima,
+  Title                    = {Inadmissibility of the Usual Estimator for the Mean of a Multivariate Normal Distribution},
+  Author                   = {Stein, Charles},
+  Booktitle                = {Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability, Volume 1: Contributions to the Theory of Statistics},
+  Year                     = {1956},
+
+  Address                  = {Berkeley, Calif.},
+  Pages                    = {197--206},
+  Publisher                = {University of California Press},
+
+  Url                      = {http://projecteuclid.org/euclid.bsmsp/1200501656}
+}
+
+@Book{Thomson1951,
+  Title                    = {The Factorial Analysis of Human Ability},
+  Author                   = {Thomson, Godfrey H.},
+  Publisher                = {University of London},
+  Year                     = {1951},
+
+  Address                  = {London},
+  Edition                  = {5th}
+}
+
